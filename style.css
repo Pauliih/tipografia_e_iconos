@@ -46,7 +46,9 @@ p{
 	text-align: center;
 }
 
-
+.h2C{
+	font-family: 'Fascinate Inline', cursive;
+}
 .ico3{
 	text-align: center;
 	float: left;
@@ -56,4 +58,6 @@ p{
 	margin: 8px;
 	border:2px outset #E0E0E0;
 	padding-top: 2%;
+	font-family: 'Indie Flower', cursive;
+
 }
